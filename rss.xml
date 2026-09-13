@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>techgathering</title>
+    <link>https://tech-gathering.pages.dev/blog/</link>
+    <description>Latest posts from techgathering</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Sep 2026 09:24:13 GMT</lastBuildDate>
+    <atom:link href="https://tech-gathering.pages.dev/rss.xml" rel="self" type="application/rss+xml"/>
+    <generator>Static Site Generator v2.3.0</generator>
+
+    <item>
+      <title>How to Hide Taskbar in Windows 10: A Simple Step-by-Step Guide</title>
+      <link>https://tech-gathering.pages.dev/windows-tips/hide-taskbar-windows-10.html</link>
+      <guid isPermaLink="true">https://tech-gathering.pages.dev/windows-tips/hide-taskbar-windows-10.html</guid>
+      <pubDate>Sun, 13 Sep 2026 09:24:13 GMT</pubDate>
+      <description>Hiding the taskbar on Windows 10 is easiest by turning on the built-in auto-hide feature. This lets the taskbar disappear when you&apos;re not using it, giving you more screen space without losing quick access to your apps.
+
+
+
+Why Auto-Hide Works Better Than Moving or Minimizing the Taskbar
+
+
+Some people try to move the taskbar to another edge of the screen or minimize windows to get it out of sight. That only shifts or covers the taskbar temporarily, it’s still there and takes up space. Auto-hide ac</description>
+      <category>Windows Tips</category>
+      <author>Jakir</author>
+    </item>
+
+    <item>
+      <title>Test</title>
+      <link>https://tech-gathering.pages.dev/general/test.html</link>
+      <guid isPermaLink="true">https://tech-gathering.pages.dev/general/test.html</guid>
+      <pubDate>Sat, 12 Sep 2026 14:13:25 GMT</pubDate>
+      <description>Test content</description>
+      <category>General</category>
+      <author>Jakir</author>
+    </item>
+  </channel>
+</rss>
